@@ -1,4 +1,4 @@
-cmake_minimum_required (VERSION 3.5)
+cmake_minimum_required (VERSION 3.2.2)
 project (Lucid-Engine CXX)
 set (Lucid_Engine_VERSION_MAJOR 0)
 set (Lucid_Engine_VERSION_MINOR 1)
